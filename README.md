@@ -1,4 +1,4 @@
-# Big::Picture::Manager
+# Big-Picture Manager
 
 This is a RubyGem that built with artificial intelligence to help developers work on their job.
 
@@ -6,12 +6,12 @@ This is a RubyGem that built with artificial intelligence to help developers wor
 
 Install it as:
 
-    $ gem install big-picture-manager
+    $ gem install big-picture_manager
 
-The run:
+Then run it:
 
-    $ big-picture-manager
+    $ big-picture_manager
 
 ## License
 
-    [Single User License](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL6ALCBPUHLY4)
+[Single User License](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL6ALCBPUHLY4)

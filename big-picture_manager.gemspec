@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'big/picture/manager/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "big-picture-manager"
+  spec.name          = "big-picture_manager"
   spec.version       = Big::Picture::Manager::VERSION
   spec.authors       = ["Cheng Guangnan"]
   spec.email         = ["chengguangnan@126.com"]
