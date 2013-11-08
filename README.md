@@ -1,29 +1,17 @@
 # Big::Picture::Manager
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'big-picture-manager'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install big-picture-manager
+This is a RubyGem that built with artificial intelligence to help developers work on their job.
 
 ## Usage
 
-TODO: Write usage instructions here
+Install it as:
 
-## Contributing
+    $ gem install big-picture-manager
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+The run:
+
+    $ big-picture-manager
+
+## License
+
+    [Single User License](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL6ALCBPUHLY4)

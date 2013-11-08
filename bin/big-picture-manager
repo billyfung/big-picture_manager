@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+brain = <<BRAIN
+  What are you doing?
+  I understand.
+  You are not working!
+  You are not 100% committed.
+  What are you waiting for?
+  Thinking is not working.
+  That's what the client want.
+  I'm a humble guy.
+  Good job!
+  Get the shit done.
+  Just ship it.
+  Nothing is impossible.
+  You will take a day off?
+  Do you understand it?
+  Think out-of-the-box.
+  See?
+  This is not what I want.
+  I do not want you to do that.
+  This is not ridiculous to ask.
+  I’m not saying that.
+  What are you reading?
+  I'm the manager because I'm smarter.
+  You should do some overtime.
+  You have Stock options!
+  It's my mistake.
+BRAIN
+
+while :you_are_ do
+  idea = brain.lines.sample.strip
+  command = %Q|terminal-notifier -title "#{idea}" -message "from Big Picture Manager"|
+  
+  puts command
+  system command
+  
+  sleep [ 10, 30, 60, 1800, 3600 ].sample
+end
