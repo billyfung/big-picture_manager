@@ -17,3 +17,4 @@ Then run it:
 ## License
 
 [Single User License](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL6ALCBPUHLY4)
+[Corporation License](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HYEJY4XFRM9PQ)
