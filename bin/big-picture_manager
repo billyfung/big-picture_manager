@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# encoding: UTF-8
 
 brain = <<BRAIN
   What are you doing?
@@ -26,6 +27,7 @@ brain = <<BRAIN
   You should do some overtime.
   You have Stock options!
   It's my fault.
+  要保持狼性！
 BRAIN
 
 while :you_are_ do
