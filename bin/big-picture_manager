@@ -25,15 +25,15 @@ brain = <<BRAIN
   I'm the manager because I'm smarter.
   You should do some overtime.
   You have Stock options!
-  It's my mistake.
+  It's my fault.
 BRAIN
 
 while :you_are_ do
   idea = brain.lines.sample.strip
-  command = %Q|terminal-notifier -title "#{idea}" -message "from Big Picture Manager"|
+  command = %Q|terminal-notifier -title "#{idea}" -message "from Big-Picture Manager"|
   
   puts command
   system command
   
-  sleep [ 10, 15, 20 ].sample
+  sleep [ 15, 30 ].sample
 end

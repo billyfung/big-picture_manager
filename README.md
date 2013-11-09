@@ -2,6 +2,8 @@
 
 This is a RubyGem that built with artificial intelligence to help developers work on their job.
 
+Big-Picture Manager requires Mac OS X.
+
 ## Usage
 
 Install it as:
