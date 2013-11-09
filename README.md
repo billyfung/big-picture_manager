@@ -2,7 +2,10 @@
 
 This is a RubyGem that built with artificial intelligence to help developers work on their job.
 
+![User story](https://raw.github.com/guangnan/big-picture_manager/master/Marketing%20Department/user_story.png)
+
 Big-Picture Manager requires Mac OS X.
+
 
 ## Usage
 
