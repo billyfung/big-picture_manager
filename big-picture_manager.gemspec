@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Cheng Guangnan"]
   spec.email         = ["chengguangnan@126.com"]
   spec.summary       = %q{A RubyGem that managing developers. Mac OS X only.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/guangnan/big-picture_manager"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
